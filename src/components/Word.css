@@ -1,0 +1,10 @@
+.word {
+  cursor: pointer;
+  display: inline-block;
+  margin-bottom: 5px;
+  text-align: center;
+  padding: 5px 10px;
+  background-color: #e2dfd4;
+  color: #000;
+  margin-left: 4px;
+}
